@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
+  <diagram name="Page-1" id="flHAlLjQrbA-1x8wae8D">
+    <mxGraphModel dx="1050" dy="977" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="35RwZdffv-YIDmmRGjLx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35RwZdffv-YIDmmRGjLx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="-12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-1" value="&#xa;Input&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35RwZdffv-YIDmmRGjLx-10" target="35RwZdffv-YIDmmRGjLx-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35RwZdffv-YIDmmRGjLx-23" target="35RwZdffv-YIDmmRGjLx-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-23" value="Train Model &lt;span class=&quot;hljs-keyword&quot;&gt;with&lt;/span&gt; &amp;nbsp;Weighted Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="24" width="180" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35RwZdffv-YIDmmRGjLx-25" target="35RwZdffv-YIDmmRGjLx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-25" value="&lt;span class=&quot;hljs-keyword&quot;&gt;User&lt;/span&gt; Input Name" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="72" width="120" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-30" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35RwZdffv-YIDmmRGjLx-27" target="35RwZdffv-YIDmmRGjLx-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-32" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35RwZdffv-YIDmmRGjLx-27" target="35RwZdffv-YIDmmRGjLx-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-27" value="&lt;span class=&quot;hljs-keyword&quot;&gt;Check&lt;/span&gt; &lt;span class=&quot;hljs-keyword&quot;&gt;in&lt;/span&gt; Learned Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="294" y="120" width="132" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-29" value="Use Stored&amp;nbsp;Gender Label" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="156" y="168" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-31" value="Predict &lt;span class=&quot;hljs-keyword&quot;&gt;with&lt;/span&gt; ML&amp;nbsp;Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="438" y="164" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35RwZdffv-YIDmmRGjLx-39" target="35RwZdffv-YIDmmRGjLx-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-39" value=" Display Predicted Gender " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="246" y="250" width="228" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-55" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="276" y="200" width="168" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35RwZdffv-YIDmmRGjLx-57" target="35RwZdffv-YIDmmRGjLx-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-57" value="&amp;nbsp;Capture &lt;span class=&quot;hljs-keyword&quot;&gt;User&lt;/span&gt; Feedback&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="246" y="312" width="228" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35RwZdffv-YIDmmRGjLx-59" target="35RwZdffv-YIDmmRGjLx-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-59" value="&amp;nbsp;&lt;span class=&quot;hljs-keyword&quot;&gt;Update&lt;/span&gt; Learned Data&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="246" y="360" width="228" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-61" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="282" y="408" width="156" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35RwZdffv-YIDmmRGjLx-1" target="35RwZdffv-YIDmmRGjLx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="-12" as="targetPoint" />
+            <mxPoint x="360" y="-60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35RwZdffv-YIDmmRGjLx-10" value="Load Dataset&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="294" y="-36" width="132" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
