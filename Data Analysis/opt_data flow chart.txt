@@ -1,0 +1,34 @@
+Take the current datasets that are there with us and come up with optimizations for the analysis to be performed
+     
+step1- Take input from the user
+     -->Load the dataset from specified file.
+
+step2- Print the shape of the dataset
+     -->Display the number of rows and columns in the dataset.
+
+step3- Identify the data types
+     -->Analyze the types of data in each column
+        (Numerical, Categorical, mixed data)
+
+step4- Statistical Analysis
+
+step5- Divide the dataset by each column.
+
+step6- Print the appropriate optimization based on dataset.
+
+## Flow-chart
+
+    Start
+      |
+  Take Input Dataset
+      |
+  Load Dataset
+      |
+  Identify the data types
+ (numerical, categorical, Mixed data)
+      |
+  Statistical Analysis
+      |
+  Divide Dataset
+      |
+  print Optimization based on dataset type
